@@ -10,12 +10,6 @@ function App() {
 
     <>
 
-        <ServerConnecttion></ServerConnecttion>
-
-        <ReactState></ReactState>
-
-        <StudentList></StudentList>
-
         <Clock></Clock>
 
 
